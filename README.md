@@ -1,22 +1,29 @@
-# PyPass-Validator 🛡️
+# 🔐 PyPass-Validator
 
-A Python-based security tool designed to evaluate password strength using **Shannon Entropy** calculations and character set analysis.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Security](https://img.shields.io/badge/Sécurité-Mot_de_passe-green?style=for-the-badge)
 
-## 📋 Features
-- **Entropy Calculation**: Measures the information density of the password in bits.
-- **Charset Detection**: Identifies lowercase, uppercase, numbers, and special characters.
-- **Security Assessment**: Provides a risk level based on standard cryptographic brute-force resistance thresholds.
+Outil de sécurité en Python conçu pour évaluer la force des mots de passe via le calcul de l'**Entropie de Shannon** et l'analyse des jeux de caractères.
 
-## 🔬 How it works
-The tool uses the formula:  
-`Entropy = L * log2(R)`  
-Where **L** is the password length and **R** is the size of the pool of characters used.
+## 📋 Fonctionnalités
+- **Calcul d'Entropie** : Mesure la densité d'information du mot de passe en bits.
+- **Détection de Caractères** : Identifie les minuscules, majuscules, chiffres et caractères spéciaux.
+- **Évaluation de Sécurité** : Fournit un niveau de risque basé sur les seuils standards de résistance aux attaques par force brute.
 
-## 🛠️ Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yanisdardaz/PyPass-Validator.git
-   ```
+## 🔬 Fonctionnement technique
+L'outil utilise la formule mathématique :  
+`Entropie = L * log2(R)`  
+Où **L** est la longueur du mot de passe et **R** la taille du pool de caractères utilisés (ex: 26 pour les minuscules, 95 pour l'ASCII complet).
+
+---
+
+## 🛠️ Utilisation
+
+Pour tester la sécurité de vos mots de passe, suivez ces étapes :
+
+### 1. Cloner le projet
+```bash
+git clone [https://github.com/yanisdardaz/PyPass-Validator.git](https://github.com/yanisdardaz/PyPass-Validator.git)
 2. Enter the directory:
    ```bash
    cd PyPass-Validator
