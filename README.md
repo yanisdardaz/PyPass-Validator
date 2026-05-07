@@ -25,7 +25,7 @@ Pour tester la sécurité de vos mots de passe, suivez ces étapes :
    ```bash
    git clone [https://github.com/yanisdardaz/PyPass-Validator.git](https://github.com/yanisdardaz/PyPass-Validator.git)
    ```
- ### 2. Enter the directory:
+ ### 2. Enter dans directory:
    ```bash
     cd PyPass-Validator
    ```
