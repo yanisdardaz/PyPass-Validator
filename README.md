@@ -15,4 +15,4 @@ Where **L** is the password length and **R** is the size of the pool of characte
 ## 🛠️ Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yanisdardaz/PyPass-Validator.git](https://github.com/yanisdardaz/PyPass-Validator.git)
+   git clone https://github.com/yanisdardaz/PyPass-Validator.git
