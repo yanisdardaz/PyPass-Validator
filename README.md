@@ -16,8 +16,12 @@ Where **L** is the password length and **R** is the size of the pool of characte
 1. Clone the repository:
    ```bash
    git clone https://github.com/yanisdardaz/PyPass-Validator.git
-```
-1. Clone the repository:
+   ```
+2. Enter the directory:
    ```bash
-   git clone https://github.com/yanisdardaz/PyPass-Validator.git
-```
+   cd PyPass-Validator
+   ```
+3. Run le scipt:
+   ```bash
+   python3 password_checker.py
+   ```
