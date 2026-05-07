@@ -22,9 +22,9 @@ Où **L** est la longueur du mot de passe et **R** la taille du pool de caractè
 Pour tester la sécurité de vos mots de passe, suivez ces étapes :
 
 ### 1. Cloner le projet
-```bash
+   ```bash
 git clone [https://github.com/yanisdardaz/PyPass-Validator.git](https://github.com/yanisdardaz/PyPass-Validator.git)
-``
+   ```
 2. Enter the directory:
    ```bash
    cd PyPass-Validator
