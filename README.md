@@ -27,9 +27,9 @@ Pour tester la sécurité de vos mots de passe, suivez ces étapes :
    ```
 2. Enter the directory:
    ```bash
- cd PyPass-Validator
+    cd PyPass-Validator
    ```
 3. Run le scipt:
    ```bash
- python3 password_checker.py
+    python3 password_checker.py
    ```
